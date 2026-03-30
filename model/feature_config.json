@@ -1,0 +1,1 @@
+{"numeric_cols": ["age", "duration_days"], "categorical_cols": ["gender", "fever_pattern", "severity", "travel_history", "season", "onset_type", "pain_location", "burning_urination", "rash", "chills", "nausea"]}
